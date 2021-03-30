@@ -1,0 +1,11 @@
+if($gender == 0)
+
+   echo "Male";
+
+esleif($gender == 1)
+
+   echo "Female";
+
+else
+
+   echo "Undefined";
