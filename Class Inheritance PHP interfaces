@@ -1,0 +1,16 @@
+interface IMusician {
+
+  public function play();
+
+}
+
+class Guitarist implements IMusician {
+
+  public function 
+() { 
+
+    echo "playin a guitar";
+
+  }
+
+}
