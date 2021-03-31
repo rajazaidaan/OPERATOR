@@ -1,0 +1,1 @@
+setcookie('longged',1, time()+3600);
